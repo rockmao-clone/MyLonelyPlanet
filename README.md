@@ -9,6 +9,6 @@ Browse by **Region → Category**.
   - [Food](./hongkong/food/README.md) (0, for testing)
   - [Fun](./hongkong/fun/README.md) (0, for testing)
 - [Tokyo](./tokyo/README.md)
-  - [Drinks](./tokyo/drinks/README.md) (7)
+  - [Drinks](./tokyo/drinks/README.md) (10)
   - [Food](./tokyo/food/README.md) (21)
   - [Fun](./tokyo/fun/README.md) (1)
