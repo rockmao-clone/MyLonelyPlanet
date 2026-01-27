@@ -1,4 +1,3 @@
-# Fun in Hong Kong
+# Hong Kong / Fun
 
-## Places
-*(No records yet — add your first one!)*
+- [Golden Scene Cinema](./goldenscenecinema.md) (cinema)
