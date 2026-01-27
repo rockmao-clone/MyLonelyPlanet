@@ -25,8 +25,10 @@
 | [Bar High Five](./highfive.md)                | cocktail, 鸡尾酒 | $$$ | ⭐️⭐️⭐️⭐️⭐️ (5/5)  |
 | [Bar LIBRE Ikebukuro](./barlibreikebukuro.md) | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐⭐️⭐️✨ (4.5/5) |
 | [Bar TRENCH](./bartrench.md)                  | cocktail, 鸡尾酒 | $$$ | ⭐️⭐️⭐️⭐️️ (4/5)   |
+| [Matsubaya Saryo](./matsubayasaryo.md)        | tea/matcha, 茶/抹茶 | $$ | ⭐️️⭐️⭐️✨ (3.5/5)   |
 | [LITTLE SMITH](./littlesmith.md)              | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐️⭐️⭐️ (4/5)   |
 | [Mixology Salon](./mixologysalon.md)          | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐⭐️⭐️✨ (4.5/5) |
 | [Mori Bar](./moribar.md)                      | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐️⭐️⭐️ (4/5)   |
 | [MORI BAR GRAN](./moribargran.md)             | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐⭐️⭐️✨ (4.5/5) |
+| [Rego](./rego.md)                             | wine, 葡萄酒 | $$$ | ⭐️️⭐️⭐️⭐️ (4/5)   |
 | [STAR BAR GINZA](./starbarginza.md)           | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐️⭐️⭐️ (4/5)   |

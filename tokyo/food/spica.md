@@ -1,7 +1,7 @@
 # SPICA
 
 ## Basic Info
-- **Address:** 150-0001 Tokyo, Shibuya, Jingumae, 4 Chome−12−10, 3F
+- **Address:** 150-0001 Tokyo, Shibuya City, Jingumae, 4 Chome−12−10, 3F
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 3 (up to 5)
 - **Tags:** italian

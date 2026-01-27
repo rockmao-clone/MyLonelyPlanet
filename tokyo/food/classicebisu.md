@@ -1,7 +1,7 @@
 # CLASSIC参鶏湯 恵比寿店
 
 ## Basic Info
-- **Address:** 150-0021 Tokyo, Shibuya, Ebisunishi, 1 Chome−13−2, 2F
+- **Address:** 150-0021 Tokyo, Shibuya City, Ebisunishi, 1 Chome−13−2, 2F
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 3.5 (up to 5)
 - **Tags:** korean

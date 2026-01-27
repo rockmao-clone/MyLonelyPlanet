@@ -9,7 +9,7 @@
 - **URL:** https://www.bar-libre.jp/
 
 ## Highlights
-- They also offer an excellent selection of cigars alongside cocktails.
+- They also offer an excellent selection of cigars alongside cocktails. (I am not a fan but you can have a try.)
 
 ## Notes
 - Limited seating; expect waits during peak hours.

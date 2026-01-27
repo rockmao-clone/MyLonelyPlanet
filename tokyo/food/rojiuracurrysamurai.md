@@ -1,7 +1,7 @@
 # Rojiura Curry SAMURAI. 吉祥寺店
 
 ## Basic Info
-- **Address:** 180-0004 Tokyo, Musashino, Kichijoji Honcho, 2 Chome-27-2
+- **Address:** 180-0004 Tokyo, Musashino City, Kichijoji Honcho, 2 Chome-27-2
 - **Price:** $$ (up to $$$$$)
 - **Rating:** 4.5 (up to 5)
 - **Tags:** soup curry

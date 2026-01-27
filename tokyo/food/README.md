@@ -29,6 +29,7 @@
 | [HARBS](./harbs.md) | Cakes, 蛋糕 | $$   | ⭐️⭐️⭐️✨ (3.5/5) |
 | [Kageyamarou](./kageyamarou.md) | Ramen, 鸡白汤拉面 | $    | ⭐️⭐️⭐️⭐️✨ (4.5/5) |
 | [Kagura](./kagura.md) | Yakiniku, 烧肉 | $$$  | ⭐️⭐️⭐️⭐️ (4/5) |
+| [Kagurazaka Saryo](./kagurazakasaryo.md) | Cafe, 简餐 | $$  | ⭐️⭐️⭐️✨ (3.5/5) |
 | [Marukatsu](./marukatsu.md) | Oyakodon, 亲子丼 | $    | ⭐️⭐️⭐️⭐️✨ (4.5/5) |
 | [MERCER BRUNCH Roppongi](./mercerbrunchroppongi.md) | Italian brunch, 意式早午餐 | $$   | ⭐️⭐️⭐️⭐️ (4/5) |
 | [Pain des Philosophes](./paindesphilosophes.md) | Bakery, 烘焙店 | $    | ⭐️⭐️⭐️✨ (3.5/5) |
@@ -39,5 +40,7 @@
 | [Sumibi Yakiniku Nakahara](./sumibiyakinikunakahara.md) | Yakiniku, 烧肉 | $$$$$ | ⭐️⭐️⭐️⭐️✨ (4.5/5) |
 | [Sutaminaen](./sutaminaen.md) | Yakiniku, 烧肉 | $$$$ | ⭐️⭐️⭐️⭐️✨ (4.5/5) |
 | [Tofu Ukai](./tofuukai.md) | Tofu kaiseki, 豆腐怀石料理 | $$$$ | ⭐️⭐️⭐️⭐️ (4/5) |
+| [Toriyaki Ohana](./toriyakiohana.md) | Yakitori, 烧鸟 | $$$$ | ⭐️⭐️⭐️⭐️✨ (4.5/5) |
+| [Urara](./urara.md) | Udon, 乌冬 | $ | ⭐️⭐️⭐️✨ (3.5/5) |
 | [Yakitori Shinohara](./yakitorishinohara.md) | Yakitori, 烧鸟 | $$$$ | ⭐️⭐️⭐️⭐️✨ (4.5/5) |
 | [王氏湯包](./wangshitangbao.md) | Nanjing cuisine, 南京小吃 | $$   | ⭐️⭐️⭐️⭐️ (4/5) |
