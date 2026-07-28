@@ -1,7 +1,7 @@
-# Yakitori Shinohara (焼肉 篠原)
+# Yakitori Shinohara (焼鳥 篠原)
 
 ## Basic Info
-- **Address:** 106-0031 Tokyo, Minato City, Nishiazabu, 1 Chome−4−40, 1F
+- **Address:** 1F, Nishiazabu Shino Building, 1-4-40 Nishiazabu, Minato City, Tokyo 106-0031
 - **Price:** $$$$ (up to $$$$$)
 - **Rating:** 4.5 (up to 5)
 - **Tags:** yakitori
@@ -9,8 +9,8 @@
 - **URL:** https://www.yakitori-shinohara.com
 
 ## Highlights
-- A full omakase-style yakitori experience.
+- A complete omakase-style yakitori experience.
 
 ## Notes
 - Reservations can be difficult to secure.
-- Some menu items may be served raw (e.g., beef, chicken). Inform staff in advance to request cooked alternatives if needed.
+- Some dishes may contain raw or lightly cooked meat. Contact the restaurant in advance for fully cooked alternatives.

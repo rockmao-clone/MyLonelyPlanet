@@ -1,7 +1,7 @@
 # Sutaminaen (スタミナ苑)
 
 ## Basic Info
-- **Address:** 123-0864 Tokyo, Adachi City, Shikahama, 3 Chome-13-4
+- **Address:** 3-13-4 Shikahama, Adachi City, Tokyo 123-0864
 - **Price:** $$$$ (up to $$$$$)
 - **Rating:** 4.5 (up to 5)
 - **Tags:** yakiniku
@@ -9,9 +9,10 @@
 - **URL:** https://sutaminaen.com
 
 ## Highlights
-- Exceptional yakiniku paired with sake, well worth the long wait. 
+- Exceptional yakiniku and a great sake selection, well worth the long wait.
 
 ## Notes
-- No reservation, be prepared to wait over 3 hours.
-- Seating is tight and shoulder-to-shoulder.
+- Reservations are not accepted; waits can exceed three hours.
+- Seating is tight and often shoulder-to-shoulder.
 - Cash only.
+- Current Tabelog Silver; former Tabelog Gold (as of July 2026).

@@ -1,15 +1,15 @@
 # MERCER BRUNCH ROPPONGI
 
 ## Basic Info
-- **Address:** 106-0032 Tokyo, Minato City, Roppongi, 4 Chome−2−35, 1F
+- **Address:** 1F, VORT Roppongi Dual’s, 4-2-35 Roppongi, Minato City, Tokyo 106-0032
 - **Price:** $$ (up to $$$$$)
 - **Rating:** 4 (up to 5)
-- **Tags:** italian brunch
+- **Tags:** brunch, italian
 - **Google Maps:** [View Map](https://maps.app.goo.gl/ct5fkm5r1s6kNSbJ6?g_st=ipc)  
 - **URL:** https://www.mercer-brunch.com
 
 ## Highlights
-- Delicious toast, perfect for starting the day.
+- The signature brioche French toast is a perfect way to start the day.
 
 ## Notes
-- Reservations recommended; otherwise expect a wait for seating.
+- Reservations are recommended; otherwise, expect a wait for a table.

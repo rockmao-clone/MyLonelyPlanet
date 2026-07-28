@@ -1,7 +1,7 @@
-# GINZA STEAK Ginza Chuo 
+# GINZA STEAK Ginza Chuo
 
 ## Basic Info
-- **Address:** 104-0061 Tokyo, Chuo City, Ginza, 5 Chome−9−1, B1F
+- **Address:** B1F, Ginza Saiwai Building, 5-9-1 Ginza, Chuo City, Tokyo 104-0061
 - **Price:** $$$$ (up to $$$$$)
 - **Rating:** 3.5 (up to 5)
 - **Tags:** steak
@@ -9,9 +9,9 @@
 - **URL:** https://www.ginzano.jp/steak/chuo/
 
 ## Highlights
-- Located in the heart of Ginza.
-- Easier to book compared to other Ginza steakhouses.
+- Conveniently located in central Ginza.
+- Reservations are relatively easy to secure compared with other Ginza steakhouses.
 
 ## Notes
-- Worth a visit if you’ve never tried wagyu steak cooked on an iron plate.
-- Lunch sets are relatively more economical.
+- A good introduction to teppanyaki wagyu steak.
+- Lunch courses are slightly less expensive than dinner.

@@ -1,11 +1,11 @@
 # Hong Kong / Food
 
 ## Price (per person, based on personal experience)
-- $ : ~200 HKD
-- $$ : 200–500 HKD 
-- $$$ : 500–1,000 HKD
-- $$$$ : 1,000–2,000 HKD
-- $$$$$ : 2,000 HKD+
+- \$ : ~200 HKD
+- \$\$ : 200–500 HKD
+- \$\$\$ : 500–1,000 HKD
+- \$\$\$\$ : 1,000–2,000 HKD
+- \$\$\$\$\$ : 2,000 HKD+
 
 ## Rating (based on personal experience)
 - 1/5 : Never  
@@ -14,10 +14,19 @@
 - 4/5 : Should try if you’re around  
 - 5/5 : Worth an individual visit  
 
+### Rating Symbols
+- ⭐️ : 1 point
+- ✨ : 0.5 point
+
 ---
 
 ## List
 
-| Name                                          | Category      | Price | Rating            |
-|-----------------------------------------------|---------------|------|-------------------|
-| [Comptoir](./comptoir.md)                     | bistro, 餐酒馆 | $$ | ⭐️️⭐️⭐️⭐️ (4/5)   |
+| Name | Tags | Price | Rating |
+|------|------|-------|--------|
+| [Comptoir](./comptoir.md) | bistro | \$\$ | ⭐️️⭐️⭐️⭐️ |
+
+## Closed
+
+| Name | Tags | Price | Rating |
+|------|------|-------|--------|

@@ -1,7 +1,7 @@
 # Tofu Ukai
 
 ## Basic Info
-- **Address:** 105-0011 Tokyo, Minato City, Shibakoen, 4 Chome-4-13
+- **Address:** 4-4-13 Shibakoen, Minato City, Tokyo 105-0011
 - **Price:** $$$$ (up to $$$$$)
 - **Rating:** 4 (up to 5)
 - **Tags:** tofu kaiseki
@@ -13,4 +13,5 @@
 - Beautiful Japanese garden with a view of Tokyo Tower.
 
 ## Notes
-- Reservations can be difficult to secure.
+- Permanently closed.
+- Former Michelin One-Star.

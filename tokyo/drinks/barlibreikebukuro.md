@@ -1,7 +1,7 @@
 # Bar LIBRE Ikebukuro
 
 ## Basic Info
-- **Address:** 171-0021 Tokyo, Toshima City, Nishiikebukuro, 3 Chome−25−8, B1F
+- **Address:** B1F, Somaya Building, 3-25-8 Nishiikebukuro, Toshima City, Tokyo 171-0021
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 4.5 (up to 5)
 - **Tags:** cocktail
@@ -9,7 +9,8 @@
 - **URL:** https://www.bar-libre.jp/
 
 ## Highlights
-- They also offer an excellent selection of cigars alongside cocktails. (I am not a fan but you can have a try.)
+- Excellent cigar selection alongside the cocktails, though cigars are not for me.
 
 ## Notes
 - Limited seating; expect waits during peak hours.
+- Current Asia's Top 50 (as of July 2026).

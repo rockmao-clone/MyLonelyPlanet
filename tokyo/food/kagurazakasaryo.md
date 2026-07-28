@@ -1,7 +1,7 @@
-# Kagurazaka Saryo
+# Kagurazaka Saryo Honten (神楽坂 茶寮 本店)
 
 ## Basic Info
-- **Address:** 162-0825 Tokyo, Shinjuku City, Kagurazaka, 3 Chome−１
+- **Address:** 3-1 Kagurazaka, Shinjuku City, Tokyo 162-0825
 - **Price:** $$ (up to $$$$$)
 - **Rating:** 3.5 (up to 5)
 - **Tags:** cafe
@@ -9,7 +9,7 @@
 - **URL:** https://saryo.jp
 
 ## Highlights
-- Recommended: Ochazuke
+- The ochazuke is recommended.
 
 ## Notes
 - N.A.

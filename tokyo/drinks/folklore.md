@@ -1,7 +1,7 @@
 # FOLKLORE
 
 ## Basic Info
-- **Address:** 100-0011 Tokyo, Chiyoda City, Uchisaiwaicho, 1 Chome-7-1, G27
+- **Address:** Unit G27, Hibiya OKUROJI, 1-7-1 Uchisaiwaicho, Chiyoda City, Tokyo 100-0011
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 4 (up to 5)
 - **Tags:** cocktail
@@ -9,7 +9,8 @@
 - **URL:** https://www.jrtk.jp/hibiya-okuroji/shop/detail_00052/
 
 ## Highlights
-- Unique experience featuring cocktails based on shochu and sake.
+- A unique experience featuring cocktails based on shochu and sake.
 
 ## Notes
 - Limited seating; expect waits during peak hours.
+- Former Asia's Top 100.

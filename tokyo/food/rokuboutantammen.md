@@ -1,17 +1,17 @@
-# Rokubo Tantammen (六坊担々麺)
+# Rokubou Tantanmen (六坊担担面)
 
 ## Basic Info
-- **Address:** 171-0022 Tokyo, Toshima City, Minamiikebukuro, 1 Chome−24−5, 1F
+- **Address:** 1F, Rakuen Town Ikebukuro, 1-24-5 Minamiikebukuro, Toshima City, Tokyo 171-0022
 - **Price:** $ (up to $$$$$)
 - **Rating:** 4.5 (up to 5)
 - **Tags:** ramen
 - **Google Maps:** [View Map](https://maps.app.goo.gl/XMp5SNwi3CkKFvDf8?g_st=ipc)  
-- **URL:** https://www.watanabestyle.com/smp/rokubotantanmen.html
+- **URL:** https://www.watanabestyle.com/rokubotantanmen.html
 
 ## Highlights
-- My personal favorite in the Ikebukuro area.
-- Tantanmen flavor approved by Sichuan people.
+- My favorite restaurant in the Ikebukuro area.
+- Even friends from Sichuan approve of the flavor.
 
 ## Notes
-- Limited seating; expect waits during peak hours.
+- Seating is limited, so expect a wait during peak hours.
 - Cash only.

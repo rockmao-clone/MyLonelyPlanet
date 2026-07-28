@@ -1,11 +1,11 @@
 # Tokyo / Drinks
 
 ## Price (per person, based on personal experience)
-- $ : ~2,000 JPY  
-- $$ : 2,000–5,000 JPY  
-- $$$ : 5,000–10,000 JPY  
-- $$$$ : 10,000–20,000 JPY  
-- $$$$$ : 20,000 JPY+  
+- \$ : ~2,000 JPY
+- \$\$ : 2,000–5,000 JPY
+- \$\$\$ : 5,000–10,000 JPY
+- \$\$\$\$ : 10,000–20,000 JPY
+- \$\$\$\$\$ : 20,000 JPY+
 
 ## Rating (based on personal experience)
 - 1/5 : Never  
@@ -14,21 +14,33 @@
 - 4/5 : Should try if you’re around  
 - 5/5 : Worth an individual visit  
 
+### Rating Symbols
+- ⭐️ : 1 point
+- ✨ : 0.5 point
+
 ---
 
 ## List
 
-| Name                                          | Category      | Price | Rating            |
-|-----------------------------------------------|---------------|------|-------------------|
-| [FOLKLORE](./folklore.md)                     | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐️⭐️⭐️ (4/5)   |
-| [Bar Amber](./baramber.md)                    | cocktail, 鸡尾酒 | $$$ | ⭐️⭐️⭐️⭐️️ (4/5)   |
-| [Bar High Five](./highfive.md)                | cocktail, 鸡尾酒 | $$$ | ⭐️⭐️⭐️⭐️⭐️ (5/5)  |
-| [Bar LIBRE Ikebukuro](./barlibreikebukuro.md) | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐⭐️⭐️✨ (4.5/5) |
-| [Bar TRENCH](./bartrench.md)                  | cocktail, 鸡尾酒 | $$$ | ⭐️⭐️⭐️⭐️️ (4/5)   |
-| [Matsubaya Saryo](./matsubayasaryo.md)        | tea/matcha, 茶/抹茶 | $$ | ⭐️️⭐️⭐️✨ (3.5/5)   |
-| [LITTLE SMITH](./littlesmith.md)              | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐️⭐️⭐️ (4/5)   |
-| [Mixology Salon](./mixologysalon.md)          | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐⭐️⭐️✨ (4.5/5) |
-| [Mori Bar](./moribar.md)                      | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐️⭐️⭐️ (4/5)   |
-| [MORI BAR GRAN](./moribargran.md)             | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐⭐️⭐️✨ (4.5/5) |
-| [Rego](./rego.md)                             | wine, 葡萄酒 | $$$ | ⭐️️⭐️⭐️⭐️ (4/5)   |
-| [STAR BAR GINZA](./starbarginza.md)           | cocktail, 鸡尾酒 | $$$ | ⭐️️⭐️⭐️⭐️ (4/5)   |
+| Name | Tags | Price | Rating |
+|------|------|-------|--------|
+| [Bar Amber](./baramber.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️️ |
+| [Bar High Five](./highfive.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️⭐️ |
+| [Bar LIBRE Ikebukuro](./barlibreikebukuro.md) | cocktail | \$\$\$ | ⭐️️⭐⭐️⭐️✨ |
+| [Bar TRENCH](./bartrench.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️️ |
+| [FOLKLORE](./folklore.md) | cocktail | \$\$\$ | ⭐️️⭐️⭐️⭐️ |
+| [Fuglen Tokyo](./fuglentokyo.md) | coffee, cocktail | \$ | ⭐️⭐️⭐️ |
+| [GLITCH COFFEE & ROASTERS GINZA](./glitchcoffeeandroastersginza.md) | coffee | \$ | ⭐️⭐️⭐️ |
+| [LITTLE SMITH](./littlesmith.md) | cocktail | \$\$\$ | ⭐️️⭐️⭐️⭐️ |
+| [Matsubaya Saryo / Hakobune Gallery](./matsubayasaryo.md) | tea/matcha | \$\$ | ⭐️️⭐️⭐️✨ |
+| [Mixology Salon](./mixologysalon.md) | cocktail | \$\$\$ | ⭐️️⭐⭐️⭐️✨ |
+| [Mori Bar](./moribar.md) | cocktail | \$\$\$ | ⭐️️⭐️⭐️⭐️ |
+| [MORI BAR GRAN](./moribargran.md) | cocktail | \$\$\$ | ⭐️️⭐⭐️⭐️✨ |
+| [rego](./rego.md) | wine | \$\$\$ | ⭐️️⭐️⭐️⭐️ |
+| [Sapporo Draft Beer Black Label THE BAR](./sapporodraftbeerblacklabelthebar.md) | beer | \$\$ | ⭐️⭐️⭐️⭐️✨ |
+| [STAR BAR GINZA](./starbarginza.md) | cocktail | \$\$\$ | ⭐️️⭐️⭐️⭐️ |
+
+## Closed
+
+| Name | Tags | Price | Rating |
+|------|------|-------|--------|

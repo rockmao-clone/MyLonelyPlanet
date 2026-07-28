@@ -1,7 +1,7 @@
 # Baden Baden Yurakucho
 
 ## Basic Info
-- **Address:** 100-0006 Tokyo, Chiyoda City, Yurakucho, 2 Chome−1−8
+- **Address:** 2-1-8 Yurakucho, Chiyoda City, Tokyo 100-0006 (beneath the JR railway tracks)
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 4 (up to 5)
 - **Tags:** german
@@ -13,4 +13,4 @@
 - Great place to enjoy hearty German beer.
 
 ## Notes
-- N.A.
+- Train noise may bother some, but it also adds to the unique atmosphere.

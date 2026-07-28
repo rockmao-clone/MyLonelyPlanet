@@ -1,7 +1,7 @@
-# Toriyaki Ohana (鳥焼き小花)
+# Toriyaki Ohana (鳥焼き 小花)
 
 ## Basic Info
-- **Address:** 150-0013 Tokyo, Shibuya City, Ebisu, 3 Chome−28−2, 1F
+- **Address:** 1F, SP15 EBISU, 3-28-2 Ebisu, Shibuya City, Tokyo 150-0013
 - **Price:** $$$$ (up to $$$$$)
 - **Rating:** 4.5 (up to 5)
 - **Tags:** yakitori
@@ -9,8 +9,9 @@
 - **URL:** https://toriyaki-ohana.jp
 
 ## Highlights
-- A full omakase-style yakitori experience.
-- A rich collection of sake at a fair price.
+- A full omakase-style chicken dining experience.
+- An extensive sake selection at reasonable prices.
 
 ## Notes
-- Just remember to make a reservation.
+- Reservations are required but relatively easy to secure.
+- Current Michelin Selected (as of July 2026).

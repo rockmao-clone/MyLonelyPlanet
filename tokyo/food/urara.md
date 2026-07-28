@@ -1,7 +1,7 @@
-# URARA
+# URARA (ウララ)
 
 ## Basic Info
-- **Address:** 150-0033 Tokyo, Shibuya City, Sarugakucho 20-10
+- **Address:** 20-10 Sarugakucho, Shibuya City, Tokyo 150-0033
 - **Price:** $ (up to $$$$$)
 - **Rating:** 3.5 (up to 5)
 - **Tags:** udon
@@ -9,7 +9,7 @@
 - **URL:** https://www.bombaybazar.jp/urara
 
 ## Highlights
-- Have some delicious udon as a break during shopping at Daikanyama
+- A relaxing stop for delicious udon while shopping in Daikanyama.
 
 ## Notes
 - N.A.

@@ -1,7 +1,7 @@
 # SPICA
 
 ## Basic Info
-- **Address:** 150-0001 Tokyo, Shibuya City, Jingumae, 4 Chome−12−10, 3F
+- **Address:** 3F, Omotesando Hills Main Building, 4-12-10 Jingumae, Shibuya City, Tokyo 150-0001
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 3 (up to 5)
 - **Tags:** italian
@@ -9,8 +9,8 @@
 - **URL:** https://spica.im-transit.co.jp
 
 ## Highlights
-- Located inside Omotesando Hills (designed by Tadao Ando).
-- A relaxed spot for casual afternoon meetups with friends after shopping.
+- Located in Omotesando Hills, designed by Tadao Ando.
+- A relaxed spot for casual afternoon meetups after shopping.
 
 ## Notes
 - Service can be slow.

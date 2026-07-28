@@ -1,7 +1,7 @@
-# bar TRENCH
+# Bar TRENCH
 
 ## Basic Info
-- **Address:** 150-0021 Tokyo, Shibuya City, Ebisunishi, 1 Chome−5−8, 102
+- **Address:** Room 102, DIS Building, 1-5-8 Ebisunishi, Shibuya City, Tokyo 150-0021
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 4 (up to 5)
 - **Tags:** cocktail
@@ -9,8 +9,9 @@
 - **URL:** https://small-axe.net/bar-trench/
 
 ## Highlights
-- Try pairing cocktails with their sandwiches.
+- Try pairing the cocktails with one of their sandwiches.
 
 ## Notes
-- No reservation.
+- Reservations are not accepted.
 - Limited seating; expect waits during peak hours.
+- Current Asia's Top 100; former Asia's Top 50; current World's Top 100 (as of July 2026).

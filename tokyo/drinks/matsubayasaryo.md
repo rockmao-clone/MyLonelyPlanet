@@ -1,7 +1,7 @@
 # Matsubaya Saryo / Hakobune Gallery
 
 ## Basic Info
-- **Address:** 107-0062 Tokyo, Minato City, Minamiaoyama, 5 Chome−4−27, 1F
+- **Address:** 1F, Barbizon 104, 5-4-27 Minamiaoyama, Minato City, Tokyo 107-0062
 - **Price:** $$ (up to $$$$$)
 - **Rating:** 3.5 (up to 5)
 - **Tags:** tea/matcha
@@ -9,7 +9,7 @@
 - **URL:** https://mtbysr.jp
 
 ## Highlights
-- Experience matcha-making by yourself.
+- Experience preparing your own matcha.
 
 ## Notes
-- Waiting time could be long due to limited staff.
+- Waits can be long because of limited staffing.

@@ -1,7 +1,7 @@
 # LITTLE SMITH
 
 ## Basic Info
-- **Address:** 104-0061 Tokyo, Chuo City, Ginza, 6 Chome−4−12, B2F
+- **Address:** B2F, KN Building, 6-4-12 Ginza, Chuo City, Tokyo 104-0061
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 4 (up to 5)
 - **Tags:** cocktail

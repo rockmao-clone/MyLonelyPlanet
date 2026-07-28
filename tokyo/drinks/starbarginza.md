@@ -1,17 +1,18 @@
 # STAR BAR GINZA
 
 ## Basic Info
-- **Address:** 104-0061 Tokyo, Chuo City, Ginza, 1 Chome−5−13, B1F
+- **Address:** B1F, MODERNS GINZA, 1-5-13 Ginza, Chuo City, Tokyo 104-0061
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 4 (up to 5)
 - **Tags:** cocktail
 - **Google Maps:** [View Map](https://maps.app.goo.gl/GVjkjdXPuQM2CVa2A?g_st=ipc)  
-- **URL:** https://www.starbar.jp
+- **URL:** https://www.starbar.jp/
 
 ## Highlights
-- Signature “ninja ice,” which becomes nearly invisible in the drink.
-- Features a homemade ginger syrup, try it in their Moscow Mule, considered one of the best.
+- Try the signature “Ninja Ice,” which becomes nearly invisible in the drink.
+- Their Moscow Mule, made with house-made ginger syrup, is considered one of the best.
 
 ## Notes
-- Walk-in only.
 - Limited seating; expect waits during peak hours.
+- Non-smoking.
+- Former Asia's Top 50 and World's Top 50.

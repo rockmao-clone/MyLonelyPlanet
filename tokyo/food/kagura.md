@@ -1,7 +1,7 @@
-# Kagura (神楽)
+# Sumibi Yakiniku Kagura (炭火焼肉 神楽)
 
 ## Basic Info
-- **Address:** 174-0056 Tokyo, Itabashi City, Shimura, 3 Chome-20-1
+- **Address:** 1F, 3-20-1 Shimura, Itabashi City, Tokyo 174-0056
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 4 (up to 5)
 - **Tags:** yakiniku
@@ -9,8 +9,8 @@
 - **URL:** https://hitosara.com/0006124062/?cid=gm_hp
 
 ## Highlights
-- Recommended: the daily special.
-- Yukhoe is a must-try if you’re comfortable with raw beef.
+- Ask about the daily special.
+- The yukhoe is a must-try if you are comfortable eating raw beef.
 
 ## Notes
-- Limited seating; expect waits during peak hours.
+- Seating is limited, so expect a wait during peak hours.
