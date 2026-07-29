@@ -1,6 +1,6 @@
-# Tokyo
+# Tokyo & Surroundings
 
-Browse Tokyo by category:
+Browse Tokyo & Surroundings by category:
 
 - [Food](./food/README.md)
 - [Drinks](./drinks/README.md)

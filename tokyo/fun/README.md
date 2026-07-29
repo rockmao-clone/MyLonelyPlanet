@@ -1,4 +1,4 @@
-# Tokyo / Fun
+# Tokyo & Surroundings / Fun
 
 ## Price (based on personal experience)
 - \$ : very inexpensive
@@ -26,9 +26,15 @@
 |------|------|-------|--------|
 | [109 Cinemas Premium Shinjuku](./109cinemaspremiumshinjuku.md) | cinema | \$\$\$ | ⭐️⭐️⭐️⭐️✨ |
 | [Cinem@rt Shinjuku](./cinemartshinjuku.md) | cinema | \$\$ | ⭐️⭐️⭐️✨ |
+| [Enoura Observatory](./enouraobservatory.md) | architecture | \$\$\$ | ⭐️⭐️⭐️⭐️ |
+| [Hoshino Resorts KAI Nikko](./hoshinoresortskainikko.md) | ryokan | \$\$\$\$\$ | ⭐️⭐️⭐️⭐️✨ |
+| [HOSHINOYA Karuizawa](./hoshinoyakaruizawa.md) | resort | \$\$\$\$\$ | ⭐️⭐️⭐️⭐️⭐️ |
 | [Imperial Theatre](./imperialtheatre.md) | theatre | \$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Jazz SPOT Intro](./jazzspotintro.md) | jazz bar | \$\$ | ⭐️⭐️⭐️⭐️ |
 | [JIYU KUKAN BIGBOX Takadanobaba](./jiyukukanbigboxtakadanobaba.md) | internet café | \$\$\$ | ⭐️⭐️⭐️ |
+| [Kinnotake Tōnosawa](./kinnotaketonosawa.md) | ryokan | \$\$\$\$\$ | ⭐️⭐️⭐️⭐️⭐️ |
+| [Konoma no Tsuki](./konomanotsuki.md) | ryokan | \$\$\$\$\$ | ⭐️⭐️⭐️⭐️✨ |
+| [Lakeland Hotel Mizunosato](./lakelandhotelmizunosato.md) | hotel | \$\$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Shinjuku Kitamura Camera](./shinjukukitamuracamera.md) | camera shop | \$\$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Waseda Shōchiku](./wasedashochiku.md) | cinema | \$\$ | ⭐️⭐️⭐️✨ |
 | [YEBISU BREWERY TOKYO](./yebisubrewerytokyo.md) | brewery | \$\$ | ⭐️⭐️⭐️⭐️ |

@@ -1,4 +1,4 @@
-# Oyakodon Senmonten Marukatsu (親子丼専門店 ○勝)
+# Oyakodon Senmonten Marukatsu
 
 ## Basic Info
 - **Address:** 2F, Ginza A Building, 4-4-1 Ginza, Chuo City, Tokyo 104-0061

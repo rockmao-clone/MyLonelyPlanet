@@ -1,4 +1,4 @@
-# Tokyo / Food
+# Tokyo & Surroundings / Food
 
 ## Price (per person, based on personal experience)
 - \$ : ~2,000 JPY

@@ -1,4 +1,4 @@
-# Kagurazaka Saryo Honten (神楽坂 茶寮 本店)
+# Kagurazaka Saryo Honten
 
 ## Basic Info
 - **Address:** 3-1 Kagurazaka, Shinjuku City, Tokyo 162-0825

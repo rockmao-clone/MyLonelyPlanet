@@ -24,7 +24,7 @@
 
 | Name | Tags | Price | Rating |
 |------|------|-------|--------|
-| [Comptoir](./comptoir.md) | bistro | \$\$ | ⭐️️⭐️⭐️⭐️ |
+| [Comptoir](./comptoir.md) | bistro | \$\$ | ⭐️⭐️⭐️⭐️ |
 
 ## Closed
 

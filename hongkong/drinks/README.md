@@ -24,7 +24,7 @@
 
 | Name | Tags | Price | Rating |
 |------|------|-------|--------|
-| [Bar De Luxe](./bardeluxe.md) | cocktail | \$\$ | ⭐️️⭐️⭐️⭐️✨ |
+| [Bar De Luxe](./bardeluxe.md) | cocktail | \$\$ | ⭐️⭐️⭐️⭐️✨ |
 
 ## Closed
 

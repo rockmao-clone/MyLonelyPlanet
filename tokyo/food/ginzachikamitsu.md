@@ -1,4 +1,4 @@
-# Ginza Chikamitsu (銀座 ちかみつ)
+# Ginza Chikamitsu
 
 ## Basic Info
 - **Address:** 1F, Tiara Grace Ginza Tower, 7-13-2 Ginza, Chuo City, Tokyo 104-0061

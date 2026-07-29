@@ -1,4 +1,4 @@
-# Rokubou Tantanmen (六坊担担面)
+# Rokubou Tantanmen
 
 ## Basic Info
 - **Address:** 1F, Rakuen Town Ikebukuro, 1-24-5 Minamiikebukuro, Toshima City, Tokyo 171-0022

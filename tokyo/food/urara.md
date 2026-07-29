@@ -1,4 +1,4 @@
-# URARA (ウララ)
+# Urara
 
 ## Basic Info
 - **Address:** 20-10 Sarugakucho, Shibuya City, Tokyo 150-0033

@@ -1,4 +1,4 @@
-# Yakitori Shinohara (焼鳥 篠原)
+# Yakitori Shinohara
 
 ## Basic Info
 - **Address:** 1F, Nishiazabu Shino Building, 1-4-40 Nishiazabu, Minato City, Tokyo 106-0031

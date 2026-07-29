@@ -1,4 +1,4 @@
-# Sutaminaen (スタミナ苑)
+# Sutaminaen
 
 ## Basic Info
 - **Address:** 3-13-4 Shikahama, Adachi City, Tokyo 123-0864

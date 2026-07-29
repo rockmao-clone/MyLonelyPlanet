@@ -1,4 +1,4 @@
-# MERCER BRUNCH ROPPONGI
+# MERCER BRUNCH Roppongi
 
 ## Basic Info
 - **Address:** 1F, VORT Roppongi Dual’s, 4-2-35 Roppongi, Minato City, Tokyo 106-0032

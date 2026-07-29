@@ -1,4 +1,4 @@
-# Sumibi Yakiniku Kagura (炭火焼肉 神楽)
+# Sumibi Yakiniku Kagura
 
 ## Basic Info
 - **Address:** 1F, 3-20-1 Shimura, Itabashi City, Tokyo 174-0056

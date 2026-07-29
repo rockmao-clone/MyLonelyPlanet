@@ -1,11 +1,11 @@
 # Hong Kong / Fun
 
-## Price (per person, based on personal experience)
-- \$ : ~200 HKD
-- \$\$ : 200–500 HKD
-- \$\$\$ : 500–1,000 HKD
-- \$\$\$\$ : 1,000–2,000 HKD
-- \$\$\$\$\$ : 2,000 HKD+
+## Price (based on personal experience)
+- \$ : very inexpensive
+- \$\$ : inexpensive
+- \$\$\$ : moderate
+- \$\$\$\$ : expensive
+- \$\$\$\$\$ : very expensive
 
 ## Rating (based on personal experience)
 - 1/5 : Never

@@ -1,4 +1,4 @@
-# Wangshi Tangbao (金陵一絶 王氏湯包)
+# Wangshi Tangbao
 
 ## Basic Info
 - **Address:** 2F, Kado Building, 1-35-1 Nishiikebukuro, Toshima City, Tokyo 171-0021

@@ -1,4 +1,4 @@
-# Kageyamarou 鶏白湯麺 蔭山 高田馬場店
+# Kageyamarou
 
 ## Basic Info
 - **Address:** 1-4-18 Takadanobaba, Shinjuku City, Tokyo 169-0075

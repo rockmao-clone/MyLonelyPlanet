@@ -1,4 +1,4 @@
-# Rojiura Curry SAMURAI. Kichijoji (路地裏カリィ 侍. 吉祥寺店)
+# Rojiura Curry SAMURAI. Kichijoji
 
 ## Basic Info
 - **Address:** 2-27-2 Kichijoji Honcho, Musashino City, Tokyo 180-0004

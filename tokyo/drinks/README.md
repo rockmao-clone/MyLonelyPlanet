@@ -1,4 +1,4 @@
-# Tokyo / Drinks
+# Tokyo & Surroundings / Drinks
 
 ## Price (per person, based on personal experience)
 - \$ : ~2,000 JPY
@@ -24,21 +24,21 @@
 
 | Name | Tags | Price | Rating |
 |------|------|-------|--------|
-| [Bar Amber](./baramber.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️️ |
+| [Bar Amber](./baramber.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Bar High Five](./highfive.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️⭐️ |
-| [Bar LIBRE Ikebukuro](./barlibreikebukuro.md) | cocktail | \$\$\$ | ⭐️️⭐⭐️⭐️✨ |
-| [Bar TRENCH](./bartrench.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️️ |
-| [FOLKLORE](./folklore.md) | cocktail | \$\$\$ | ⭐️️⭐️⭐️⭐️ |
+| [Bar LIBRE Ikebukuro](./barlibreikebukuro.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️✨ |
+| [Bar TRENCH](./bartrench.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️ |
+| [FOLKLORE](./folklore.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Fuglen Tokyo](./fuglentokyo.md) | coffee, cocktail | \$ | ⭐️⭐️⭐️ |
 | [GLITCH COFFEE & ROASTERS GINZA](./glitchcoffeeandroastersginza.md) | coffee | \$ | ⭐️⭐️⭐️ |
-| [LITTLE SMITH](./littlesmith.md) | cocktail | \$\$\$ | ⭐️️⭐️⭐️⭐️ |
-| [Matsubaya Saryo / Hakobune Gallery](./matsubayasaryo.md) | tea/matcha | \$\$ | ⭐️️⭐️⭐️✨ |
-| [Mixology Salon](./mixologysalon.md) | cocktail | \$\$\$ | ⭐️️⭐⭐️⭐️✨ |
-| [Mori Bar](./moribar.md) | cocktail | \$\$\$ | ⭐️️⭐️⭐️⭐️ |
-| [MORI BAR GRAN](./moribargran.md) | cocktail | \$\$\$ | ⭐️️⭐⭐️⭐️✨ |
-| [rego](./rego.md) | wine | \$\$\$ | ⭐️️⭐️⭐️⭐️ |
+| [LITTLE SMITH](./littlesmith.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️ |
+| [Matsubaya Saryo / Hakobune Gallery](./matsubayasaryo.md) | tea/matcha | \$\$ | ⭐️⭐️⭐️✨ |
+| [Mixology Salon](./mixologysalon.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️✨ |
+| [Mori Bar](./moribar.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️ |
+| [MORI BAR GRAN](./moribargran.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️✨ |
+| [rego](./rego.md) | wine | \$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Sapporo Draft Beer Black Label THE BAR](./sapporodraftbeerblacklabelthebar.md) | beer | \$\$ | ⭐️⭐️⭐️⭐️✨ |
-| [STAR BAR GINZA](./starbarginza.md) | cocktail | \$\$\$ | ⭐️️⭐️⭐️⭐️ |
+| [STAR BAR GINZA](./starbarginza.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️ |
 
 ## Closed
 

@@ -1,4 +1,4 @@
-# Sanmaisan Jimbocho (3米3 神保町店)
+# Sanmaisan Jimbocho
 
 ## Basic Info
 - **Address:** 1F, Maki Building, 2-3-2 Nishikanda, Chiyoda City, Tokyo 101-0065

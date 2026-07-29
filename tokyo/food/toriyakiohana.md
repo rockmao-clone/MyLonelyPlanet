@@ -1,4 +1,4 @@
-# Toriyaki Ohana (鳥焼き 小花)
+# Toriyaki Ohana
 
 ## Basic Info
 - **Address:** 1F, SP15 EBISU, 3-28-2 Ebisu, Shibuya City, Tokyo 150-0013
