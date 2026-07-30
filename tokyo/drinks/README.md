@@ -36,6 +36,7 @@
 | [Mixology Salon](./mixologysalon.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️✨ |
 | [Mori Bar](./moribar.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [MORI BAR GRAN](./moribargran.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️✨ |
+| [Old Imperial Bar](./oldimperialbar.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [rego](./rego.md) | wine | \$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Sapporo Draft Beer Black Label THE BAR](./sapporodraftbeerblacklabelthebar.md) | beer | \$\$ | ⭐️⭐️⭐️⭐️✨ |
 | [STAR BAR GINZA](./starbarginza.md) | cocktail | \$\$\$ | ⭐️⭐️⭐️⭐️ |
