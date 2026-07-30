@@ -26,8 +26,8 @@
 |------|----------|-------|--------|
 | [Cenci](./cenci.md) | italian | \$\$\$\$\$ | ⭐️⭐️⭐️⭐️✨ |
 | [Gochiso Shiyo](./gochisoshiyo.md) | home-style japanese | \$\$\$ | ⭐️⭐️⭐️⭐️ |
-| [Kōdaiji Jūgyūan](./kodaijijugyuan.md) | kaiseki | \$\$\$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Kyo Unawa Honten](./kyounawahonten.md) | unagi | \$\$\$ | ⭐️⭐️⭐️⭐️ |
+| [Kōdaiji Jūgyūan](./kodaijijugyuan.md) | kaiseki | \$\$\$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Minokichi Honten Takeshigero](./minokichihontentakeshigero.md) | kaiseki | \$\$\$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Nanzenji Junsei](./nanzenjijunsei.md) | tofu | \$\$\$ | ⭐️⭐️⭐️⭐️ |
 | [Slō](./slo.md) | bakery | \$ | ⭐️⭐️⭐️✨ |
