@@ -6,6 +6,8 @@ Browse by **Region → Category**.
 ## Browse
 Closed entries are not included in the counts below.
 
+### Japan
+
 - **Tokyo & Surroundings**
   - [Drinks](./tokyo/drinks/README.md) (16)
   - [Food](./tokyo/food/README.md) (26)
@@ -18,7 +20,9 @@ Closed entries are not included in the counts below.
   - [Drinks](./other-japan/drinks/README.md) (1)
   - [Food](./other-japan/food/README.md) (2)
   - [Fun](./other-japan/fun/README.md) (0)
-- **Hong Kong**
-  - [Drinks](./hongkong/drinks/README.md) (1, for testing)
-  - [Food](./hongkong/food/README.md) (1, for testing)
-  - [Fun](./hongkong/fun/README.md) (1, for testing)
+
+### Hong Kong
+
+- [Drinks](./hongkong/drinks/README.md) (1, for testing)
+- [Food](./hongkong/food/README.md) (1, for testing)
+- [Fun](./hongkong/fun/README.md) (1, for testing)
